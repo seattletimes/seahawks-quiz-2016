@@ -1,0 +1,398 @@
+[
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "Maverick (Top Gun)",
+    "playerids": 88
+  },
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "Buddy (Elf)",
+    "playerids": 0
+  },
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "Chewbacca (Star Wars)",
+    "playerids": 72
+  },
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "The Dude (Big Lebowski)",
+    "playerids": 24
+  },
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "Phil Dunphy (Modern Family)",
+    "playerids": 9
+  },
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "Iron Man",
+    "playerids": 31
+  },
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "GOT character?",
+    "playerids": "29 25"
+  },
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "Agent J (Men in Black)",
+    "playerids": 3
+  },
+  {
+    "title": 2,
+    "questionid": 2,
+    "answer": "Make a snarky comment about running the ball",
+    "playerids": "24 72"
+  },
+  {
+    "title": 2,
+    "questionid": 2,
+    "answer": "You make a scene by cursing loudly",
+    "playerids": "25 29"
+  },
+  {
+    "title": 2,
+    "questionid": 2,
+    "answer": "I shudder, but power through to the next highlight",
+    "playerids": 31
+  },
+  {
+    "title": 2,
+    "questionid": 2,
+    "answer": "Eh, that's in the past. What's next?",
+    "playerids": "0 3"
+  },
+  {
+    "title": 2,
+    "questionid": 2,
+    "answer": "What interception? ",
+    "playerids": "9 88"
+  },
+  {
+    "title": 3,
+    "questionid": 3,
+    "answer": "I just fly above the noise.",
+    "playerids": "88 3"
+  },
+  {
+    "title": 3,
+    "questionid": 3,
+    "answer": "I ride in style, boss.",
+    "playerids": "24 25"
+  },
+  {
+    "title": 3,
+    "questionid": 3,
+    "answer": "I go fast. Catch me if you can.",
+    "playerids": 29
+  },
+  {
+    "title": 3,
+    "questionid": 3,
+    "answer": "If I'm going anywhere, you better believe I'm peddling.",
+    "playerids": "72 9"
+  },
+  {
+    "title": 4,
+    "questionid": 4,
+    "answer": "Wasted away in Margartaville searching for my lost shaker of salt",
+    "playerids": 72
+  },
+  {
+    "title": 4,
+    "questionid": 4,
+    "answer": "I live for adventure! Sky-diving, anyone?",
+    "playerids": 29
+  },
+  {
+    "title": 4,
+    "questionid": 4,
+    "answer": "Just give me a bed and Netflix. ",
+    "playerids": ""
+  },
+  {
+    "title": 4,
+    "questionid": 4,
+    "answer": "ROAD TRIP!",
+    "playerids": ""
+  },
+  {
+    "title": 4,
+    "questionid": 4,
+    "answer": "I don't take vacations. #NoTimeToSleep",
+    "playerids": 3
+  },
+  {
+    "title": 5,
+    "questionid": 5,
+    "answer": "\"Yeah.\"",
+    "playerids": 24
+  },
+  {
+    "title": 5,
+    "questionid": 5,
+    "answer": "\"This is an awesome opportunity, I'm fired up!\"",
+    "playerids": 0
+  },
+  {
+    "title": 5,
+    "questionid": 5,
+    "answer": "\"I'm the best candidate in the game.\"",
+    "playerids": 25
+  },
+  {
+    "title": 5,
+    "questionid": 5,
+    "answer": "\"My work is like two angels dancing while chocolate is coming from the heavens on a Sunday morning.\"",
+    "playerids": 72
+  },
+  {
+    "title": 5,
+    "questionid": 5,
+    "answer": "\"I take nothing for granted, and I'll keep working every day to get better.\"",
+    "playerids": 29
+  },
+  {
+    "title": 5,
+    "questionid": 5,
+    "answer": "You're too busy tweeting",
+    "playerids": 9
+  },
+  {
+    "title": 6,
+    "questionid": 6,
+    "answer": "Dancing with the Stars",
+    "playerids": 3
+  },
+  {
+    "title": 6,
+    "questionid": 6,
+    "answer": "Last Comic Standing",
+    "playerids": 72
+  },
+  {
+    "title": 6,
+    "questionid": 6,
+    "answer": "Survivor",
+    "playerids": 88
+  },
+  {
+    "title": 6,
+    "questionid": 6,
+    "answer": "Shark Tank",
+    "playerids": 25
+  },
+  {
+    "title": 6,
+    "questionid": 6,
+    "answer": "America's Got Talent",
+    "playerids": 29
+  },
+  {
+    "title": 6,
+    "questionid": 6,
+    "answer": "The Real World",
+    "playerids": 24
+  },
+  {
+    "title": 6,
+    "questionid": 6,
+    "answer": "American Ninja Warrior",
+    "playerids": 9
+  },
+  {
+    "title": 6,
+    "questionid": 6,
+    "answer": "The Voice",
+    "playerids": 0
+  },
+  {
+    "title": 7,
+    "questionid": 7,
+    "answer": "The loud one",
+    "playerids": 25
+  },
+  {
+    "title": 7,
+    "questionid": 7,
+    "answer": "The leader",
+    "playerids": 3
+  },
+  {
+    "title": 7,
+    "questionid": 7,
+    "answer": "The quiet one",
+    "playerids": 31
+  },
+  {
+    "title": 7,
+    "questionid": 7,
+    "answer": "The tough one",
+    "playerids": 24
+  },
+  {
+    "title": 7,
+    "questionid": 7,
+    "answer": "The thoughtful one",
+    "playerids": 88
+  },
+  {
+    "title": 7,
+    "questionid": 7,
+    "answer": "The funny one",
+    "playerids": "72 9"
+  },
+  {
+    "title": 8,
+    "questionid": 8,
+    "answer": "I'm all about the classics",
+    "playerids": ""
+  },
+  {
+    "title": 8,
+    "questionid": 8,
+    "answer": "Anything on the top-40",
+    "playerids": ""
+  },
+  {
+    "title": 8,
+    "questionid": 8,
+    "answer": "You've probably never heard of it",
+    "playerids": ""
+  },
+  {
+    "title": 8,
+    "questionid": 8,
+    "answer": "I like it all",
+    "playerids": ""
+  },
+  {
+    "title": 8,
+    "questionid": 8,
+    "answer": "Podcasts for me!",
+    "playerids": ""
+  },
+  {
+    "title": 9,
+    "questionid": 9,
+    "answer": "I'm looking goooood. ",
+    "playerids": ""
+  },
+  {
+    "title": 9,
+    "questionid": 9,
+    "answer": "I'm breaking out my best plaid",
+    "playerids": ""
+  },
+  {
+    "title": 9,
+    "questionid": 9,
+    "answer": "Whatever I see first on my floor",
+    "playerids": ""
+  },
+  {
+    "title": 9,
+    "questionid": 9,
+    "answer": "Something to make people look twice",
+    "playerids": ""
+  },
+  {
+    "title": 9,
+    "questionid": 9,
+    "answer": "I'm comfortable in sweats on the couch, thank you very much",
+    "playerids": ""
+  },
+  {
+    "title": 10,
+    "questionid": 10,
+    "answer": "Michael Jordan",
+    "playerids": ""
+  },
+  {
+    "title": 10,
+    "questionid": 10,
+    "answer": "",
+    "playerids": ""
+  },
+  {
+    "title": 10,
+    "questionid": 10,
+    "answer": "",
+    "playerids": ""
+  },
+  {
+    "title": 10,
+    "questionid": 10,
+    "answer": "",
+    "playerids": ""
+  },
+  {
+    "title": 11,
+    "questionid": 11,
+    "answer": "The peacekeeper",
+    "playerids": ""
+  },
+  {
+    "title": 11,
+    "questionid": 11,
+    "answer": "I'm just about that action, boss",
+    "playerids": ""
+  },
+  {
+    "title": 11,
+    "questionid": 11,
+    "answer": "I do whatever is asked of me",
+    "playerids": ""
+  },
+  {
+    "title": 11,
+    "questionid": 11,
+    "answer": "I'm the vocal leader",
+    "playerids": ""
+  },
+  {
+    "title": 11,
+    "questionid": 11,
+    "answer": "I need a raise",
+    "playerids": ""
+  },
+  {
+    "title": 12,
+    "questionid": 12,
+    "answer": "Money",
+    "playerids": ""
+  },
+  {
+    "title": 12,
+    "questionid": 12,
+    "answer": "Fame ",
+    "playerids": ""
+  },
+  {
+    "title": 12,
+    "questionid": 12,
+    "answer": "Recognition",
+    "playerids": ""
+  },
+  {
+    "title": 12,
+    "questionid": 12,
+    "answer": "Friendship",
+    "playerids": ""
+  },
+  {
+    "title": 12,
+    "questionid": 12,
+    "answer": "Unmatched skill",
+    "playerids": ""
+  }
+]

@@ -1,0 +1,278 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@import "seattletimes";
+@import "page";
+
+@mobile: ~"(max-width: 480px)";
+@tablet: ~"(max-width: 768px)";
+@blue: #164c75;
+@green: #8eb607;
+@gray: #AAA;
+@dark-gray: #555;
+@block: 'Paytone One', sans-serif;
+@narrow: 'Oswald', sans-serif;
+
+body {
+  font-family: @narrow;
+  color: @df-dark-gray;
+  font-size: 18px;
+}
+
+.outer {
+  max-width: 1200px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.quiz-container {
+  width: calc(~"100% - 360px");
+  border-top: 8px solid @blue;
+  margin: auto;
+  margin-top: 30px;
+
+  @media @tablet {
+    width: 100%;
+  }
+
+  @media @mobile {
+    margin-top: 0;
+  }
+  
+  &.results {
+    .buttons {
+      height: 0;
+      margin-right: 0;
+    }
+
+    .quiz-box {
+      padding-top: 45px;
+    }
+  }
+
+  .buttons {
+    float: right;
+    margin-top: 1em;
+
+    @media @tablet {
+      margin-top: 1.5em;
+      text-align: center;
+      float: none;
+      text-align: center;
+    }
+
+    .share-button {
+      display: inline-block !important;
+      width: 100%;
+      
+      &.sharer-0 label {
+        color: white !important;
+        background: @blue !important;
+        padding: 3px 10px 6px 10px !important;
+        border-radius: 0;
+
+        @media @tablet {
+          padding: 3px 15px 7px 15px !important;
+        }
+
+        span {
+          font-size: 16px !important;
+          font-family: @block !important;
+          font-weight: normal !important;
+
+          @media @tablet {
+            font-size: 14px !important;
+          }
+        }
+
+        &:hover {
+          background: @green !important;
+        }
+      }
+
+      .social.networks-5.left {
+        margin-left: -201px !important;
+      }
+
+      &.share-results {
+        width: 100%;
+        display: inline !important;
+
+        .social.networks-5.left {
+          margin-left: 21px !important;
+
+          @media @tablet {
+            margin-left: 235px !important;
+          }
+
+           @media @mobile {
+            margin-left: 39px !important;
+          }
+        }
+      }
+    }
+
+    .retake {
+      font-family: @block;
+      display: inline-block;
+      text-decoration: none;
+      border: none;
+      padding: 5px 10px 6px 10px;
+      font-size: 16px;
+      -webkit-font-smoothing: antialiased;
+      transition: background 0.2s linear;
+      background: @blue;
+      color: white;
+      cursor: pointer;
+
+      @media @tablet {
+        font-size: 14px;
+        padding: 7px 15px 8px 15px;
+      }
+        
+      &:hover {
+        background: @green;
+      }
+
+      &.hidden {
+        display: none;
+      }
+
+      span {
+        padding-left: 3px;
+      }
+    }
+  }
+}
+
+.quiz-box {
+  height: 100%;
+  width: 100%;
+  padding: 50px 20px 30px 20px;
+  margin: 0 auto;
+
+  .index {
+    font-family: @block;
+    color: @df-middle-gray;
+  }
+
+  .question-box {
+    margin-bottom: 1em;
+  }
+
+  .question {
+    font-family: @block;
+    font-size: 1.4em;
+    color: @blue;
+  }
+
+  input {
+    display: none;
+
+    & + label::before {
+      position: relative;
+      display: inline-block;
+      font: normal normal normal 14px/1 FontAwesome;
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      content: "\f1db";
+      margin-right: 8px;
+      
+    }
+
+    &:checked + label::before {
+      content: "\f111";
+      color: @green;
+    }
+  }
+
+  label {
+    cursor: pointer;
+
+    @media @mobile {
+      font-size: 16px;
+    }
+  }
+
+  .result-image {
+    width: 100%;
+    margin: auto;
+
+    img {
+      width: 100%;
+    }
+
+    .credit {
+      margin: 0;
+      float: right;
+      font-size: 12px;
+      font-family: @df-sans;
+      text-transform: uppercase;
+    }
+  }
+
+  .result-name {
+    font-family: @block;
+    font-size: 2em;
+    line-height: 1.2em;
+    margin: 10px 0;
+  }
+
+  .result-description {
+    margin: 0 auto 1em auto;
+    font-size: 1.2em;
+    color: @dark-gray;
+  }
+}
+
+.green {
+  color: @green;
+}
+
+.blue {
+  color: @blue;
+}
+
+button {
+  font-family: @block;
+  display: inline-block;
+  cursor: default;
+  text-decoration: none;
+  background: @df-border-gray;
+  color: white;
+  border: none;
+  padding: 3px 10px 5px 10px;
+  font-size: 0.9em;
+  -webkit-font-smoothing: antialiased;
+  transition: background 0.2s linear;
+
+  @media @tablet {
+    padding: 8px 20px 10px 20px;
+  }
+
+  &.active {
+    background: @blue;
+    cursor: pointer;
+    
+    &:hover {
+      background: @green;
+    }
+  }
+}
+
+.share-bottom {
+  position: absolute;
+  right: 10px;
+  padding-top: 0 !important;
+  
+  &.sharer-0 label {
+    color: white !important;
+    background: @blue !important;
+  }
+}

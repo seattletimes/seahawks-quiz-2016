@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "living-gentleman"
+    },
+    "live": {
+      "bucket": "",
+      "path": ""
+    }
+  },
+  "title": "Which Seahawk are you?",
+  "description": "Take our personality quiz and find out.",
+  "url": "http://projects-staging.seattletimes.com/living-gentleman",
+  "slug": "",
+  "tags": ["quiz", "seahawks", "football", "sports"],
+  "image": "http://seattletimes.com/art/ui/fb_icon_large.jpg",
+  "production": false,
+  "embedded": false,
+  "sheets": ["13xCKJ5CFIyfaFOrXntb7sq8tF48Bvq8gV_-EPzC9AmM"]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Russell WIlson",
+    "player": "Russell WIlson",
+    "playerid": 3,
+    "description": "You have a passionate obsession to be the best, while also projecting an air of calm and cool.",
+    "image": "wilson.jpg",
+    "photographer": "Mike Siegel"
+  },
+  {
+    "title": "Jimmy Graham",
+    "player": "Jimmy Graham",
+    "playerid": 88,
+    "description": "You have overcome a lot of adversity in your life and achieved success, because what doesn't kill you makes you stronger.",
+    "image": "graham.jpg",
+    "photographer": "John Lok"
+  },
+  {
+    "title": "Richard Sherman",
+    "player": "Richard Sherman",
+    "playerid": 25,
+    "description": "You are loud and brash, never at a loss for words. You are good at what you do, but why let that speak for itself when you can, too?",
+    "image": "sherman.jpg",
+    "photographer": "Bettina Hansen"
+  },
+  {
+    "title": "Earl Thomas",
+    "player": "Earl Thomas",
+    "playerid": 29,
+    "description": "You are a meticulous planner and have a ferocious drive to not only be the best at what you do, but also redefine your line of work.",
+    "image": "thomas.jpg",
+    "photographer": "John Lok"
+  },
+  {
+    "title": "Kam Chancellor",
+    "player": "Kam Chancellor",
+    "playerid": 31,
+    "description": "tktk",
+    "image": "chancellor.jpg",
+    "photographer": "Bettina Hansen"
+  },
+  {
+    "title": "Marshawn Lynch",
+    "player": "Marshawn Lynch",
+    "playerid": 24,
+    "description": "You are quiet, an enigma perhaps. But there’s clearly a deep reservoir of emotions churning within you. To your peers, you are universally beloved because they find you authentic.",
+    "image": "lynch.jpg",
+    "photographer": "Dean Rutz"
+  },
+  {
+    "title": "Jon Ryan",
+    "player": "Jon Ryan",
+    "playerid": 9,
+    "description": "tktk",
+    "image": "ryan.jpg",
+    "photographer": "Mike Siegel"
+  },
+  {
+    "title": "Pete Carroll",
+    "player": "Pete Carroll",
+    "playerid": 0,
+    "description": "tktk",
+    "image": "",
+    "photographer": ""
+  },
+  {
+    "title": "Michael Bennett",
+    "player": "Michael Bennett",
+    "playerid": 72,
+    "description": "You are vocal, opinionated and the biggest jokester in your circle of friends. But you also know how to fit in and push others to succeed.",
+    "image": "bennett.jpg",
+    "photographer": "Mark Harrison"
+  }
+]

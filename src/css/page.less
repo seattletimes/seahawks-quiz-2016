@@ -1,0 +1,162 @@
+nav.top-bar {
+  border-bottom: 1px solid @gray;
+
+  @media @mobile {
+    height: 40px;
+    background: @green;
+  }
+
+  .logo {
+    position: relative;
+    top: 30px;
+    text-align: center;
+    display: block;
+
+    @media @mobile {
+      top: 0;
+    }
+
+    img {
+      box-sizing: content-box;
+      height: 30px;
+      background: @green;
+      padding: 10px;
+
+      @media @mobile {
+        padding: 5px;
+      }
+    }
+  }
+}
+
+header {
+  text-align: center;
+  font-family: @block;
+
+  .quiz-label {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: normal;
+    color: white;
+    background: @df-dark-gray;
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 20px auto 0;
+
+    @media @tablet {
+      font-size: 14px;
+    }
+  }
+
+  .title {
+    color: @blue;
+    text-transform: uppercase;
+    font-size: 3em;
+    line-height: 1.2em;
+    margin: 5px auto 0.5em;
+
+    @media @mobile {
+      line-height: 1em;
+      margin-bottom: 0;
+    }
+
+    .green {
+      font-size: 1.8em;
+      display: block;
+
+      @media @mobile {
+        font-size: inherit;
+      }
+    }
+  }
+
+  .chatter {
+    font-family: @narrow;
+    font-size: 1.2em;
+    margin: auto;
+    max-width: 840px;
+
+    @media @mobile {
+      font-size: 1em;
+      padding-top: 15px;
+      padding-bottom: 15px;
+    }
+  }
+}
+
+.divider {
+  border: 4px solid @blue;
+}
+
+.credits {
+  font-size: 0.8em;
+  font-weight: 300;
+  letter-spacing: 1px;
+  text-align: center;
+  padding: 10px;
+
+  .credit-name {
+    font-weight: 400;
+  }
+
+  @media @mobile {
+    padding: 15px;
+  }
+}
+
+.copyright {
+  font-family: @df-sans;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 300;
+  color: @df-middle-gray;
+  padding-bottom: 15px;
+
+  @media @mobile {
+    padding-bottom: 0px;
+  }
+}
+
+.ad {
+  text-align: center;
+  margin-bottom: 10px;
+}
+.bottom-ad {
+  @media @mobile {
+    display: none;
+  }
+}
+
+footer {
+  background: @blue;
+  opacity: 0.95;
+  padding: 8px;
+  position: relative;
+  z-index: 99;
+
+  .logo {
+    float: left;
+    margin-right: 10px; 
+    
+    img {
+      margin-top: 5px;
+      height: 20px;
+    }
+  }
+
+  &::after {
+    clear: both;
+    content: " ";
+    display: block;
+  }
+
+  .share-bottom {
+    float: left;
+    padding-top: 4px;
+
+    label {
+      background: @df-charcoal !important;
+      color: @df-off-white !important;
+    }
+  }
+}
