@@ -5,16 +5,16 @@
       "path": "living-gentleman"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "2015/seahawks-personality-quiz"
     }
   },
-  "title": "Which Seahawk are you?",
-  "description": "Take our personality quiz and find out.",
-  "url": "http://projects-staging.seattletimes.com/living-gentleman",
+  "title": "Which Seahawk are YOU?",
+  "description": "Lorem ipsum.",
+  "url": "http://projects-staging.seattletimes.com/living-gentleman/",
   "slug": "",
   "tags": ["quiz", "seahawks", "football", "sports"],
-  "image": "http://seattletimes.com/art/ui/fb_icon_large.jpg",
+  "image": "http://projects-staging.seattletimes.com/living-gentleman/assets/HawkQuizSocial.jpg",
   "production": false,
   "embedded": false,
   "sheets": ["13xCKJ5CFIyfaFOrXntb7sq8tF48Bvq8gV_-EPzC9AmM"]

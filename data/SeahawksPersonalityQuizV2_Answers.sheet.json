@@ -104,7 +104,7 @@
   {
     "title": 4,
     "questionid": 4,
-    "answer": "Wasted away in Margartaville searching for my lost shaker of salt",
+    "answer": "Wasted away in Margaritaville searching for my lost shaker of salt",
     "playerids": 72
   },
   {
@@ -255,19 +255,19 @@
     "title": 8,
     "questionid": 8,
     "answer": "I'm all about the classics",
-    "playerids": ""
+    "playerids": 3
   },
   {
     "title": 8,
     "questionid": 8,
     "answer": "Anything on the top-40",
-    "playerids": ""
+    "playerids": 0
   },
   {
     "title": 8,
     "questionid": 8,
     "answer": "You've probably never heard of it",
-    "playerids": ""
+    "playerids": 72
   },
   {
     "title": 8,
@@ -320,13 +320,13 @@
   {
     "title": 10,
     "questionid": 10,
-    "answer": "",
+    "answer": "Serena Williams",
     "playerids": ""
   },
   {
     "title": 10,
     "questionid": 10,
-    "answer": "",
+    "answer": "Derek Jeter",
     "playerids": ""
   },
   {
@@ -345,54 +345,54 @@
     "title": 11,
     "questionid": 11,
     "answer": "I'm just about that action, boss",
-    "playerids": ""
+    "playerids": 24
   },
   {
     "title": 11,
     "questionid": 11,
     "answer": "I do whatever is asked of me",
-    "playerids": ""
+    "playerids": "29 3 "
   },
   {
     "title": 11,
     "questionid": 11,
     "answer": "I'm the vocal leader",
-    "playerids": ""
+    "playerids": "25 0"
   },
   {
     "title": 11,
     "questionid": 11,
     "answer": "I need a raise",
-    "playerids": ""
+    "playerids": "31 72"
   },
   {
     "title": 12,
     "questionid": 12,
     "answer": "Money",
-    "playerids": ""
+    "playerids": 31
   },
   {
     "title": 12,
     "questionid": 12,
     "answer": "Fame ",
-    "playerids": ""
+    "playerids": 3
   },
   {
     "title": 12,
     "questionid": 12,
     "answer": "Recognition",
-    "playerids": ""
+    "playerids": 25
   },
   {
     "title": 12,
     "questionid": 12,
     "answer": "Friendship",
-    "playerids": ""
+    "playerids": 9
   },
   {
     "title": 12,
     "questionid": 12,
     "answer": "Unmatched skill",
-    "playerids": ""
+    "playerids": 29
   }
 ]

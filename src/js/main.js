@@ -23,7 +23,7 @@ new Share(".share-button", {
   },
   networks: {
     email: {
-      description: "Which Seahawk are YOU? Take our personality quiz and find out." + window.location.href
+      description: "Which Seahawk are YOU? Take our personality quiz and find out. " + window.location.href
     }
   }
 });
@@ -34,7 +34,7 @@ new Share(".share-bottom", {
   },
   networks: {
     email: {
-      description: "Which Seahawk are YOU? Take our personality quiz and find out." + window.location.href
+      description: "Which Seahawk are YOU? Take our personality quiz and find out. " + window.location.href
     }
   }
 });

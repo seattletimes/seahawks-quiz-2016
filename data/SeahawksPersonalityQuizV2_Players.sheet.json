@@ -35,7 +35,7 @@
     "title": "Kam Chancellor",
     "player": "Kam Chancellor",
     "playerid": 31,
-    "description": "tktk",
+    "description": "You are great at what you do, but you also appreciate the spoils that come with a job well done.",
     "image": "chancellor.jpg",
     "photographer": "Bettina Hansen"
   },
@@ -51,7 +51,7 @@
     "title": "Jon Ryan",
     "player": "Jon Ryan",
     "playerid": 9,
-    "description": "tktk",
+    "description": "You appear to have a quirky side to you, but you just like to have fun and try different things.",
     "image": "ryan.jpg",
     "photographer": "Mike Siegel"
   },
@@ -59,9 +59,9 @@
     "title": "Pete Carroll",
     "player": "Pete Carroll",
     "playerid": 0,
-    "description": "tktk",
-    "image": "",
-    "photographer": ""
+    "description": "You are a passionate leader with a zeal for life. As soon as you enter a room, there's a jolt of energy.",
+    "image": "carroll.jpg",
+    "photographer": "Dean Rutz"
   },
   {
     "title": "Michael Bennett",
