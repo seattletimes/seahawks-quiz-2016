@@ -38,8 +38,14 @@
   {
     "title": 1,
     "questionid": 1,
-    "answer": "GOT character?",
-    "playerids": "29 25"
+    "answer": "Brienne of Tarth (Game of Thrones)",
+    "playerids": 25
+  },
+  {
+    "title": 1,
+    "questionid": 1,
+    "answer": "Mulan",
+    "playerids": 29
   },
   {
     "title": 1,
@@ -111,19 +117,19 @@
     "title": 4,
     "questionid": 4,
     "answer": "I live for adventure! Sky-diving, anyone?",
-    "playerids": 29
+    "playerids": "29 0"
   },
   {
     "title": 4,
     "questionid": 4,
     "answer": "Just give me a bed and Netflix. ",
-    "playerids": ""
+    "playerids": 24
   },
   {
     "title": 4,
     "questionid": 4,
     "answer": "ROAD TRIP!",
-    "playerids": ""
+    "playerids": 25
   },
   {
     "title": 4,
@@ -261,7 +267,7 @@
     "title": 8,
     "questionid": 8,
     "answer": "Anything on the top-40",
-    "playerids": 0
+    "playerids": "0 25"
   },
   {
     "title": 8,
@@ -273,73 +279,91 @@
     "title": 8,
     "questionid": 8,
     "answer": "I like it all",
-    "playerids": ""
+    "playerids": 29
   },
   {
     "title": 8,
     "questionid": 8,
     "answer": "Podcasts for me!",
-    "playerids": ""
+    "playerids": 9
   },
   {
     "title": 9,
     "questionid": 9,
     "answer": "I'm looking goooood. ",
-    "playerids": ""
+    "playerids": 3
   },
   {
     "title": 9,
     "questionid": 9,
-    "answer": "I'm breaking out my best plaid",
-    "playerids": ""
+    "answer": "Casual is my style",
+    "playerids": 24
   },
   {
     "title": 9,
     "questionid": 9,
     "answer": "Whatever I see first on my floor",
-    "playerids": ""
+    "playerids": 9
   },
   {
     "title": 9,
     "questionid": 9,
     "answer": "Something to make people look twice",
-    "playerids": ""
+    "playerids": 25
   },
   {
     "title": 9,
     "questionid": 9,
     "answer": "I'm comfortable in sweats on the couch, thank you very much",
-    "playerids": ""
+    "playerids": 72
   },
   {
     "title": 10,
     "questionid": 10,
     "answer": "Michael Jordan",
-    "playerids": ""
+    "playerids": 29
   },
   {
     "title": 10,
     "questionid": 10,
     "answer": "Serena Williams",
-    "playerids": ""
+    "playerids": 72
   },
   {
     "title": 10,
     "questionid": 10,
     "answer": "Derek Jeter",
-    "playerids": ""
+    "playerids": 3
   },
   {
     "title": 10,
     "questionid": 10,
-    "answer": "",
-    "playerids": ""
+    "answer": "Kobe Bryant ",
+    "playerids": 25
+  },
+  {
+    "title": 10,
+    "questionid": 10,
+    "answer": "Carli Lloyd",
+    "playerids": 9
+  },
+  {
+    "title": 10,
+    "questionid": 10,
+    "answer": "Ronda Rousey",
+    "playerids": 31
+  },
+  {
+    "title": 10,
+    "questionid": 10,
+    "answer": "Jim Valvano",
+    "playerids": 0
   },
   {
     "title": 11,
     "questionid": 11,
     "answer": "The peacekeeper",
-    "playerids": ""
+    "playerids": 0
   },
   {
     "title": 11,
