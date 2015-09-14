@@ -56,13 +56,13 @@
   {
     "title": 2,
     "questionid": 2,
-    "answer": "Make a snarky comment about running the ball",
+    "answer": "I make a snarky comment about running the ball",
     "playerids": "24 72"
   },
   {
     "title": 2,
     "questionid": 2,
-    "answer": "You make a scene by cursing loudly",
+    "answer": "I make a scene by cursing loudly",
     "playerids": "25 29"
   },
   {
@@ -104,7 +104,7 @@
   {
     "title": 3,
     "questionid": 3,
-    "answer": "If I'm going anywhere, you better believe I'm peddling.",
+    "answer": "If I'm going anywhere, you better believe I'm pedaling.",
     "playerids": "72 9"
   },
   {
@@ -134,7 +134,7 @@
   {
     "title": 4,
     "questionid": 4,
-    "answer": "I don't take vacations. #NoTimeToSleep",
+    "answer": "I don't take vacations. #NoTime2Sleep",
     "playerids": 3
   },
   {
@@ -231,7 +231,7 @@
     "title": 7,
     "questionid": 7,
     "answer": "The leader",
-    "playerids": 3
+    "playerids": "3 0"
   },
   {
     "title": 7,
@@ -303,7 +303,7 @@
     "title": 9,
     "questionid": 9,
     "answer": "Whatever I see first on my floor",
-    "playerids": 9
+    "playerids": "9 0"
   },
   {
     "title": 9,
@@ -320,43 +320,43 @@
   {
     "title": 10,
     "questionid": 10,
-    "answer": "Michael Jordan",
+    "answer": "Michael Jordan (basketball)",
     "playerids": 29
   },
   {
     "title": 10,
     "questionid": 10,
-    "answer": "Serena Williams",
+    "answer": "Serena Williams (tennis)",
     "playerids": 72
   },
   {
     "title": 10,
     "questionid": 10,
-    "answer": "Derek Jeter",
+    "answer": "Derek Jeter (baseball)",
     "playerids": 3
   },
   {
     "title": 10,
     "questionid": 10,
-    "answer": "Kobe Bryant ",
+    "answer": "Kobe Bryant (basketball)",
     "playerids": 25
   },
   {
     "title": 10,
     "questionid": 10,
-    "answer": "Carli Lloyd",
+    "answer": "Carli Lloyd (soccer)",
     "playerids": 9
   },
   {
     "title": 10,
     "questionid": 10,
-    "answer": "Ronda Rousey",
+    "answer": "Ronda Rousey (MMA)",
     "playerids": 31
   },
   {
     "title": 10,
     "questionid": 10,
-    "answer": "Jim Valvano",
+    "answer": "Jim Valvano (coach)",
     "playerids": 0
   },
   {

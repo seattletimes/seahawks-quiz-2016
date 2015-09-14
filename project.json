@@ -6,16 +6,16 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2015/seahawks-personality-quiz"
+      "path": "2015/which-seahawk-are-you"
     }
   },
   "title": "Which Seahawk are YOU?",
   "description": "Find out by taking our personality quiz.",
-  "url": "http://projects-staging.seattletimes.com/living-gentleman/",
+  "url": "http://projects.seattletimes.com/2015/which-seahawk-are-you/",
   "slug": "",
-  "tags": ["quiz", "seahawks", "football", "sports"],
-  "image": "http://projects-staging.seattletimes.com/living-gentleman/assets/HawkQuizSocial.jpg",
-  "production": false,
+  "tags": ["personality", "quiz", "seahawks", "football", "sports"],
+  "image": "http://projects.seattletimes.com/2015/which-seahawk-are-you/assets/HawkQuizSocial.jpg",
+  "production": true,
   "embedded": false,
   "sheets": ["13xCKJ5CFIyfaFOrXntb7sq8tF48Bvq8gV_-EPzC9AmM"]
 }
